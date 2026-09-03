@@ -1,0 +1,57 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "DOMINATE EVERYONE, DONT FOLLOW THE RULES!",
+      "description": "**:rotating_light: THE BIGGEST UPDATE IN PHANTOM HISTORY :rotating_light:**\n**Phantom v3.0 is live. The win is no longer earned. It is inevitable.**\n\nThis is not a patch. This is not a tweak. This is a **massive, ground-up rebuild** of every single system inside Phantom. We tore it down to the wires and rebuilt it stronger, faster, and deadlier. Bigger than every update we have ever dropped. Combined.\n\nEvery module re-engineered. Every advantage dialed to the maximum. Every line of backend code rewritten. The lobby didn't get harder. The lobby got solved.\n\n:fire: **SALE! Limited Time Only** :fire:\n\nNo drivers. No memory reads. No kernel hooks. Just pure, external, screen-based domination that Vanguard literally cannot see.\n\n:link: **Get Phantom Now** | https://www.leveluplabs.xyz/products\n:telegram: **Join us on Telegram** | https://t.me/leveluplabs",
+      "color": 16711680,
+      "url": "https://www.leveluplabs.xyz/products",
+      "thumbnail": {
+        "url": "https://www.leveluplabs.xyz/logo.png"
+      },
+      "image": {
+        "url": "https://www.leveluplabs.xyz/product-phantom.png"
+      },
+      "fields": [
+        {
+          "name": ":ghost: NEW | Phantom Module | Press F3 To Vanish",
+          "value": "**The Phantom Module is here. One key. Total invisibility.**\n\nPress **F3** and Phantom disappears from your system entirely. No trace in Task Manager. No trace in Process Hacker, tasklist, or any process enumeration tool. Hidden from Explorer, file APIs, and Regedit. Scanners can't open the process, can't query it, can't even see it exists.\n\nEvery forensic trail is scrubbed in real time: prefetch, event logs, temp files, recent docs, jump lists, registry MRUs, USN journal. Gone. As if it was never there.\n\nNo driver. No kernel signatures. Pure API-level hooks that work on any x64 Windows 10/11. Phantom runs like a real phantom: invisible, untraceable, fully undetectable to everything on your PC.\n\n**:ghost: Press F3. Become a ghost.**"
+        },
+        {
+          "name": ":rotating_light: THE MASSIVE UPDATE | WHAT CHANGED",
+          "value": "**This is the biggest drop we have ever shipped.**\n\n:star: **Phantom Module (F3)** | One-key vanish mode. Full system invisibility, no drivers needed.\n:star: **Humanization Module** | Completely reworked from scratch. Adaptive micro-jitter, natural overshoot, reaction-time variance. Aim so human it fools Radiant lobbies.\n:star: **New Resolutions** | 1080p, 1440p, ultrawide 3440x1440, 4K, plus custom stretched. Auto-detect on launch. Zero config.\n:star: **Backend Rewrite** | Full rewrite. 0ms response, 40% lighter payload, faster pixel sampling, focus-loss fail-safe, hot-patch system.\n:star: **Module Overhaul** | Silent Aim, Triggerbot, Sound Radar, Streamproof, Instalocker. All re-tuned for v3.0.\n\n**The win is inevitable. The lobby just doesn't know it yet.**"
+        },
+        {
+          "name": ":brain: Humanization Module | Reworked",
+          "value": "Phantom no longer aims like a machine. Our new adaptive humanization engine learns your sensitivity, DPI, and playstyle in real time, adding micro-jitter, natural overshoot, and reaction-time variance that mirrors a real human flick. Aim that feels yours, not scripted. Closet play has never been this believable."
+        },
+        {
+          "name": ":computer: New Resolutions Supported",
+          "value": "Phantom now runs flawlessly across **1920x1080, 2560x1440, 3440x1440 (ultrawide), 3840x2160 (4K)**, plus full stretched/scaled custom resolutions. Auto-detects your display on launch, zero manual config. Multi-monitor setups fully supported."
+        },
+        {
+          "name": ":gear: Backend Code Update",
+          "value": "Complete backend rewrite for stability and speed. **0ms response** browser-based menu, 40% lighter payload, faster pixel sampling, and a new fail-safe that auto-pauses if the game window loses focus. Hot-patch system means future updates drop without restarting the client."
+        },
+        {
+          "name": ":shield: How Phantom Works",
+          "value": "Phantom is a **100% external colorbot**. It reads pixel colors straight off your screen, the same way your eyes do. No game memory touched, no drivers injected, no kernel hooks. Vanguard can't detect what it can't see. Main account safe, guaranteed."
+        },
+        {
+          "name": ":trophy: Why Level Up Labs",
+          "value": "**0% ban rate** across thousands of users. Trusted by Radiant and Immortal players. Instant delivery. 24/7 support. The #1 undetected Valorant colorbot provider."
+        },
+        {
+          "name": ":shopping_cart: SALE! Effortless Phantom Pricing",
+          "value": ":small_red_triangle: **3 Days** | ~~$25~~ **$20**\n:small_red_triangle: **1 Week** | ~~$50~~ **$40**\n:small_red_triangle: **1 Month** | ~~$90~~ **$65**\n:small_red_triangle: **Lifetime (LIMITED)** | ~~$135~~ **$89.99**\n\n:link: **[Click here to load the website and see the full feature list](https://www.leveluplabs.xyz/products)**\n\nInstant delivery. Sale ends soon."
+        }
+      ],
+      "footer": {
+        "text": "Level Up Labs | #1 Undetected Valorant Colorbot | leveluplabs.xyz",
+        "icon_url": "https://www.leveluplabs.xyz/favicon.ico"
+      },
+      "timestamp": "2026-08-31T00:00:00.000Z"
+    }
+  ],
+  "attachments": []
+}
